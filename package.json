@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-savio",
+  "version": "1.0.0",
+  "description": "Portfólio profissional de Sávio Emmanuel - Desenvolvedor Full Stack",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Build script'",
+    "test": "echo 'Test script'"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "full-stack",
+    "python",
+    "fastapi"
+  ],
+  "author": "Sávio Emmanuel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svfaca/portfolio"
+  }
+}
